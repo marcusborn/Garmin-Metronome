@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Metronome",
+			"path": "../../Metronome"
+		},
+		{
+			"name": "Metronome_app",
+			"path": "../../Metronome_app"
+		},
+		{
+			"name": "QR_code_RIW",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

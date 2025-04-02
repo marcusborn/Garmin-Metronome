@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="1" lineNum="5" parent="globals/Metronome_appMenuDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="2" lineNum="26" parent="globals" pc="268435472" symbol="getApp"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="2" lineNum="27" parent="globals" pc="268435482" symbol="getApp"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435493" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="4" lineNum="5" parent="globals/Metronome_appApp" pc="268435513" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="5" lineNum="6" parent="globals/Metronome_appView" pc="268435525" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="6" lineNum="4" parent="globals/Metronome_appDelegate" pc="268435537" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="7" lineNum="11" parent="globals/Metronome_appMenuDelegate" pc="268435549" symbol="onMenuItem"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="7" lineNum="12" parent="globals/Metronome_appMenuDelegate" pc="268435551" symbol="onMenuItem"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="7" lineNum="13" parent="globals/Metronome_appMenuDelegate" pc="268435562" symbol="onMenuItem"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="7" lineNum="14" parent="globals/Metronome_appMenuDelegate" pc="268435583" symbol="onMenuItem"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="7" lineNum="15" parent="globals/Metronome_appMenuDelegate" pc="268435594" symbol="onMenuItem"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="8" lineNum="7" parent="globals/Metronome_appMenuDelegate" pc="268435616" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appMenuDelegate.mc" id="8" lineNum="8" parent="globals/Metronome_appMenuDelegate" pc="268435618" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="9" lineNum="12" parent="globals/Metronome_appApp" pc="268435631" symbol="onStart"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="10" lineNum="20" parent="globals/Metronome_appApp" pc="268435634" symbol="getInitialView"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="10" lineNum="21" parent="globals/Metronome_appApp" pc="268435636" symbol="getInitialView"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="11" lineNum="7" parent="globals/Metronome_appApp" pc="268435691" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="11" lineNum="8" parent="globals/Metronome_appApp" pc="268435693" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appApp.mc" id="12" lineNum="16" parent="globals/Metronome_appApp" pc="268435706" symbol="onStop"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="13" lineNum="24" parent="globals/Metronome_appView" pc="268435709" symbol="onShow"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="13" lineNum="25" parent="globals/Metronome_appView" pc="268435711" symbol="onShow"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="13" lineNum="27" parent="globals/Metronome_appView" pc="268435726" symbol="onShow"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="14" lineNum="16" parent="globals/Metronome_appView" pc="268435758" symbol="onLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="14" lineNum="17" parent="globals/Metronome_appView" pc="268435760" symbol="onLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="15" lineNum="9" parent="globals/Metronome_appView" pc="268435794" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="15" lineNum="10" parent="globals/Metronome_appView" pc="268435796" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="15" lineNum="11" parent="globals/Metronome_appView" pc="268435808" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="17" lineNum="31" parent="globals/Metronome_appView" pc="268435838" symbol="onUpdate"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="17" lineNum="33" parent="globals/Metronome_appView" pc="268435840" symbol="onUpdate"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="18" lineNum="42" parent="globals/Metronome_appView" pc="268435857" symbol="onTimer"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appView.mc" id="18" lineNum="45" parent="globals/Metronome_appView" pc="268435859" symbol="onTimer"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="19" lineNum="10" parent="globals/Metronome_appDelegate" pc="268435875" symbol="onMenu"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="19" lineNum="11" parent="globals/Metronome_appDelegate" pc="268435877" symbol="onMenu"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="19" lineNum="12" parent="globals/Metronome_appDelegate" pc="268435946" symbol="onMenu"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="20" lineNum="6" parent="globals/Metronome_appDelegate" pc="268435948" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/source/Metronome_appDelegate.mc" id="20" lineNum="7" parent="globals/Metronome_appDelegate" pc="268435950" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="21" lineNum="14" parent="globals/Rez/Layouts" pc="268435963" symbol="MainLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="21" lineNum="15" parent="globals/Rez/Layouts" pc="268435974" symbol="MainLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="21" lineNum="17" parent="globals/Rez/Layouts" pc="268436074" symbol="MainLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="21" lineNum="18" parent="globals/Rez/Layouts" pc="268436158" symbol="MainLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="21" lineNum="20" parent="globals/Rez/Layouts" pc="268436190" symbol="MainLayout"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="22" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268436205" symbol="&lt;init&gt;"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="23" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268436217" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="23" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436219" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="23" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436231" symbol="initialize"/>
+        <entry filename="/home/marc/Documents/coding/Garmin Metronome App/Garmin-Metronome/Metronome_app/bin/gen/006-B4585-00/source/Rez.mcgen" id="23" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436276" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="17" method="true" symbol="MainLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8" object="true" symbol="Metronome_appDelegate"/>
+        <entry field="true" id="19" symbol="AppName"/>
+        <entry id="6" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="10" object="true" symbol="Metronome_appView"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="22" symbol="prompt"/>
+        <entry field="true" id="16" symbol="id_monkey"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="24" symbol="item_2"/>
+        <entry id="23" symbol="item_1"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="18" object="true" symbol="MainMenu"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="9" object="true" symbol="Metronome_appMenuDelegate"/>
+        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="13" symbol="myTimer"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="14" method="true" symbol="onTimer"/>
+        <entry field="true" id="21" symbol="menu_label_2"/>
+        <entry field="true" id="20" symbol="menu_label_1"/>
+        <entry id="7" object="true" symbol="Metronome_appApp"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435615" name="item" stackId="1" startPc="268435549"/>
+        <entry arg="true" endPc="268435793" name="dc" stackId="1" startPc="268435758"/>
+        <entry arg="true" endPc="268435856" name="dc" stackId="1" startPc="268435838"/>
+        <entry arg="true" endPc="268436204" name="dc" stackId="1" startPc="268435963"/>
+        <entry endPc="268436204" name="rez_cmp_local_text_1193959466" stackId="2" startPc="268435974"/>
+        <entry endPc="268436204" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268435974"/>
+    </localVars>
+    <deviceInfo deviceVersion="" partNumber="006-B4585-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Metronome_appMenuDelegate" offset="152" parentId="globals" symbolId="Metronome_appMenuDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="205" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Metronome_appApp" offset="267" parentId="globals" symbolId="Metronome_appApp" type="class"/>
+        <dataEntry label="globals/Metronome_appView" offset="338" parentId="globals" symbolId="Metronome_appView" type="class"/>
+        <dataEntry label="globals/Metronome_appDelegate" offset="436" parentId="globals" symbolId="Metronome_appDelegate" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="489" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="533" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="568" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="603" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="665" parentId="Menus" symbolId="MainMenu" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="Metronome_appMenuDelegate" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435492" name="getApp" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="Rez" startPc="268435493">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="Metronome_appApp" startPc="268435513">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435536" name="&lt;init&gt;" parent="Metronome_appView" startPc="268435525">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435548" name="&lt;init&gt;" parent="Metronome_appDelegate" startPc="268435537">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435615" name="onMenuItem" parent="Metronome_appMenuDelegate" startPc="268435549">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435630" name="initialize" parent="Metronome_appMenuDelegate" startPc="268435616">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435633" name="onStart" parent="Metronome_appApp" startPc="268435631">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435690" name="getInitialView" parent="Metronome_appApp" startPc="268435634">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435705" name="initialize" parent="Metronome_appApp" startPc="268435691">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435708" name="onStop" parent="Metronome_appApp" startPc="268435706">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435757" name="onShow" parent="Metronome_appView" startPc="268435709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435793" name="onLayout" parent="Metronome_appView" startPc="268435758">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435837" name="initialize" parent="Metronome_appView" startPc="268435794">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="Metronome_appView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435856" name="onUpdate" parent="Metronome_appView" startPc="268435838">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435874" name="onTimer" parent="Metronome_appView" startPc="268435857">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435947" name="onMenu" parent="Metronome_appDelegate" startPc="268435875">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435962" name="initialize" parent="Metronome_appDelegate" startPc="268435948">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436204" name="MainLayout" parent="Layouts" startPc="268435963">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436216" name="&lt;init&gt;" parent="MainMenu" startPc="268436205">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436321" name="initialize" parent="MainMenu" startPc="268436217">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
